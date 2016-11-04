@@ -1,0 +1,127 @@
+[ 2016-10-29T18:32:15+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2016-10-29T19:35:10+08:00 ] 127.0.0.1 /readjson
+ERR: 无法加载控制器:Readjson
+
+[ 2016-10-29T19:35:15+08:00 ] 127.0.0.1 /readJson
+ERR: 无法加载控制器:ReadJson
+
+[ 2016-10-29T19:35:30+08:00 ] 127.0.0.1 /readJson
+ERR: 无法加载控制器:ReadJson
+
+[ 2016-10-29T19:35:36+08:00 ] 127.0.0.1 /ReadJson
+ERR: 无法加载控制器:ReadJson
+
+[ 2016-10-29T19:36:16+08:00 ] 127.0.0.1 /cleateJson
+ERR: 无法加载控制器:CleateJson
+
+[ 2016-10-29T19:36:36+08:00 ] 127.0.0.1 /Admin/Idex/cleateJson
+ERR: 无法加载控制器:Idex
+
+[ 2016-10-29T20:07:15+08:00 ] 127.0.0.1 /api/tnwhilte?tn=sitehao123&_=1477742835501
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001493s ]
+ERR: 无法加载控制器:Api
+
+[ 2016-10-29T20:07:16+08:00 ] 127.0.0.1 /api/newxhtiao?c=&sys=7&brw=2&edt=0&pid=hao123-index&callback=getXhtData&_=1477742835984
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003448s ]
+ERR: 无法加载控制器:Api
+
+[ 2016-10-29T20:07:16+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018837s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018928s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.032540s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.032612s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PHP\al\php51\Admin\Controller\IndexController.class.php:6) D:\PHP\al\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PHP\al\php51\Admin\Controller\IndexController.class.php:6) D:\PHP\al\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PHP\al\php51\Admin\Controller\IndexController.class.php:6) D:\PHP\al\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000897s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000980s ]
+
+[ 2016-10-29T20:07:17+08:00 ] 127.0.0.1 /api/ssugdata?r=4925809
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+ERR: 无法加载控制器:Api
+
+[ 2016-10-29T20:07:17+08:00 ] 127.0.0.1 /api/sug_short?r=4925809
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000847s ]
+ERR: 无法加载控制器:Api
+
+[ 2016-10-29T20:07:17+08:00 ] 127.0.0.1 /sugdata_s4.json?r=-820969
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000810s ]
+ERR: 无法加载控制器:Sugdata_s4.json
+
+[ 2016-10-29T20:07:17+08:00 ] 127.0.0.1 /sugdata_s4.json?r=-820969
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001197s ]
+ERR: 无法加载控制器:Sugdata_s4.json
+
+[ 2016-10-29T20:07:17+08:00 ] 127.0.0.1 /api/sample?appname=lu_hotsearch
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+ERR: 无法加载控制器:Api
+
+[ 2016-10-29T20:07:17+08:00 ] 127.0.0.1 /api/sample?appname=lu_hotsearch
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001198s ]
+ERR: 无法加载控制器:Api
+
+[ 2016-10-29T20:07:17+08:00 ] 127.0.0.1 /api/newforecast?callback=jQuery17203353507828364082_1477742835501&t=1&_=1477742837637
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000815s ]
+ERR: 无法加载控制器:Api
+
+[ 2016-10-29T20:07:50+08:00 ] 127.0.0.1 /api/gettop/?t1=1&__ajax__=box-toplist1&__session__=1
+ERR: 无法加载控制器:Api
+
+[ 2016-10-29T20:07:53+08:00 ] 127.0.0.1 /api/gettop/?t1=2&__ajax__=box-toplist1&__session__=2
+ERR: 无法加载控制器:Api
+
+[ 2016-10-29T20:07:54+08:00 ] 127.0.0.1 /api/gettop/?t1=1&__ajax__=box-toplist1&__session__=3
+ERR: 无法加载控制器:Api
+
+[ 2016-10-29T20:07:55+08:00 ] 127.0.0.1 /api/gettop/?t1=2&__ajax__=box-toplist1&__session__=4
+ERR: 无法加载控制器:Api
+
+[ 2016-10-29T20:07:56+08:00 ] 127.0.0.1 /api/gettop/?t1=2&__ajax__=box-toplist1&__session__=5
+ERR: 无法加载控制器:Api
+
+[ 2016-10-29T20:07:56+08:00 ] 127.0.0.1 /api/gettop/?t1=3&__ajax__=box-toplist1&__session__=6
+ERR: 无法加载控制器:Api
+
+[ 2016-10-29T23:54:06+08:00 ] 127.0.0.1 /duanxin/
+ERR: 无法加载控制器:Duanxin
+
+[ 2016-10-29T23:54:33+08:00 ] 127.0.0.1 /duanxin/index.html
+ERR: 无法加载控制器:Duanxin
+
+[ 2016-10-29T23:54:50+08:00 ] 127.0.0.1 /Admin/duanxin/index.html
+ERR: 无法加载控制器:Duanxin
+
+[ 2016-10-29T23:54:53+08:00 ] 127.0.0.1 /Admin/duanxin/index.html
+ERR: 无法加载控制器:Duanxin
+
